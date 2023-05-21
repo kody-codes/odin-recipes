@@ -1,2 +1,2 @@
 # odin-recipes
-This will be my first attempt at starting this project. I am going to use my HTML and CSS skills.
+This will be my first attempt at starting this project. I am going to use my HTML and CSS skills. I am updating the README.md file to update my progress. I've started editing my website with CSS!
