@@ -11,24 +11,27 @@ h1 {
   background-color: beige;
   color: green;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
 }
 
 ul {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   color: red;
+  font-weight: 50px;
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   color: red;
+  font-weight: 50px;
 }
 
 ol {
