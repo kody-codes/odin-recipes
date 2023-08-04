@@ -1,5 +1,6 @@
 html {
   background-color: beige;
+  box-sizing: border-box;
 }
 
 img {
@@ -12,12 +13,23 @@ h1 {
   color: green;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
+  padding: 20px;
+  margin: 20px;
+  border: 5px dotted red;
 }
 
 ul {
   font-size: 15px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+  padding: 20px;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+  border: solid gray;
 }
 
 h2 {
